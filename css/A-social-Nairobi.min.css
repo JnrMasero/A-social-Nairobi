@@ -1,0 +1,6 @@
+/*
+A-social-Nairobi - v - 2013-09-01
+Pulls twitter, and vine posts with a certain hashtag.
+*/
+
+/*! normalize.css v1.0.1 | MIT License | git.io/normalize */line-height:20px}body{margin:0;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:20px;color:#333;background-color:#fff;text-align:center}.container{position:relative;overflow:hidden;margin:0 auto;padding:0;text-align:left}a{color:#08c;text-decoration:none;-webkit-transition:all .3s ease-in;-moz-transition:all .3s ease-in;-ms-transition:all .3s ease-in;-o-transition:all .3s ease-in;transition:all .3s ease-in}a:hover,a:focus{color:#005580;text-decoration:underline}.feed{position:relative;*zoom:1;list-style:none;margin:0;padding:0;width:100%;text-align:center}.feed:before,.feed:after{display:table;content:"";line-height:0}.feed:after{clear:both}.feed li{max-width:250px;max-height:250px;margin:0;padding:0;display:inline-block;position:relative;vertical-align:top;overflow:hidden}.feed li img{min-width:100%;height:auto;width:auto;min-height:100%;margin:0;padding:0}.feed li img.instagram{max-width:100%}.pull-right{float:right}.pull-left{float:left}.hide{display:none}.show{display:block}.invisible{visibility:hidden}.affix{position:fixed}
